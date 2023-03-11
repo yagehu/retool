@@ -1,0 +1,8 @@
+#+title: Retool
+#+tags[]: software, education
+
+* Retool
+
+** Links
+
+0. [[file:lectures/20230311-init.org]]
